@@ -5,6 +5,7 @@ on:
     workflows: ["CI pipeline"]
     types:
         - completed
+        
 
 jobs:
 
